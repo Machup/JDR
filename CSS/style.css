@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+:root {
+    background-color: rgb(255, 255, 255)
+}
+
+* {
+    text-align: left;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.hud-main {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 2.1rem;
+    font-size: 150%;
+}
+
+.container-main {
+    margin: 5rem;
+}
+
+.container-Btn {
+    margin-top: 2rem;
+    margin-left: 40%;
+    margin-right: 40%;
+}
